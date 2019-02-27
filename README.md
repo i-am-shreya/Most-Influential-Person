@@ -7,7 +7,7 @@
 - <a href="https://scholar.google.co.in/citations?user=BJ-oHaUAAAAJ&hl=en">Shreya Ghosh</a>
 - GAF 3.0 and GAF 2.0 dataset <a href="http://www.iitrpr.ac.in/lasii/resources.html">(link)</a>.  
 
-If you find the code useful for your research, please consider citing our work:
+If you find this work useful for your research, please consider citing our paper:
 ```
 @inproceedings{ghosh2018role,
   title={Role of Group Level Affect to Find the Most Influential Person in Images},
