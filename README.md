@@ -1,5 +1,4 @@
 # Most-Influential-Person
-## Misc:
 
 - Paper link: https://link.springer.com/chapter/10.1007/978-3-030-11012-3_39
 
